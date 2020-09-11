@@ -8,3 +8,7 @@
  tambien tiene la opcion de ingresar losnumeros nuevamente para evaluar los puntos que
  el quiera
  
+ 
+![punto1](https://user-images.githubusercontent.com/62970860/92957810-c9d3df00-f42e-11ea-90d3-328d3a5b956d.jpg)
+
+ 
